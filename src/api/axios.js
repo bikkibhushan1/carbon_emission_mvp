@@ -1,7 +1,7 @@
 import { getAuthToken } from '@/utils/auth';
 import axios from 'axios';
 
-const baseURL = process.env.NEXT_PUBLIC_ECOMPASS_SRV_BASE_URL;
+const baseURL = process.env.NEXT_PUBLIC_CARBON_MVP_URL;
 const axiosInstance = axios.create({
 	baseURL,
 });
