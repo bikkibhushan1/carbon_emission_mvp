@@ -27,11 +27,8 @@ const LoginPage = () => {
 				}
 			})
 			.catch((error) => {
-            setAuthToken('abc');
-            router.push('/');
 				showToast('error', 'Login Failed !');
 			});
-
 	};
 
 	const handleRegisterClick = () => {
