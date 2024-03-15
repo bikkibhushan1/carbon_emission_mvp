@@ -1,0 +1,161 @@
+{
+	"industry": [
+		"consumer goods",
+		"transportation",
+		"technology & communications",
+		"services",
+		"resource transformation",
+		"renewable energy & alternative energy",
+		"infrastructure",
+		"health care",
+		"food beverage",
+		"financials",
+		"extractive & minerals processing"
+	],
+	"subIndustry": [
+		"apparel, accessories and footwear",
+		"appliance manufacturing",
+		"building products & furnishings",
+		"e-commerce",
+		"household & personal products",
+		"multiline and specialty retailers & distributors",
+		"toys & sporting goods",
+		"air freight & logistics",
+		"airlines",
+		"auto parts",
+		"automobiles",
+		"car rental & leasing",
+		"cruise lines",
+		"marine transportation",
+		"rail transportation",
+		"road transportation",
+		"electronic manufacturing services & original design manufacturing",
+		"hardware",
+		"internet media & services",
+		"semiconductors",
+		"software & it services",
+		"telecommunication services",
+		"advertising & marketing",
+		"casinos & gaming",
+		"education",
+		"hotels & lodging",
+		"leisure facilities",
+		"media & entertainment",
+		"professional & commercial services",
+		"aerospace & defense",
+		"chemicals",
+		"containers & packaging",
+		"electrical & electronic equipment",
+		"industrial machinery & goods",
+		"biofuels",
+		"forestry management",
+		"fuel cells & industrial batteries",
+		"pulp & paper products",
+		"solar technology & project developers",
+		"wind technology & project developers",
+		"electric utilities & power generators",
+		"engineering & construction services",
+		"gas utilities & distributors",
+		"home builders",
+		"real estate",
+		"biotechnology & pharmaceuticals",
+		"drug retailers",
+		"health care delivery",
+		"health care distributors",
+		"managed care",
+		"medical equipment & supplies",
+		"agricultural products",
+		"alcoholic beverages",
+		"food retailers and distributors",
+		"meat, poultry & dairy",
+		"non-alcoholic beverages",
+		"processed foods",
+		"restaurants",
+		"tobacco",
+		"asset management & custody activities",
+		"commercial banks",
+		"consumer finance",
+		"insurance",
+		"investment banking & brokerage",
+		"mortgage finance",
+		"security & commodity exchanges",
+		"coal operations",
+		"construction materials",
+		"iron & steel producers",
+		"metals & mining",
+		"oil & gas - exploration & production",
+		"oil & gas - midstream",
+		"oil & gas - refining & marketing",
+		"oil & gas - services"
+	],
+	"componentList": {
+		"industry": "transportation",
+		"sub_industry": "automobiles",
+		"components": [
+			{
+				"Sub-Parts": "Frame",
+				"Emission Factor": 12.0
+			},
+			{
+				"Sub-Parts": "Battery",
+				"Emission Factor": 31.5
+			},
+			{
+				"Sub-Parts": "Motor",
+				"Emission Factor": 45.6
+			},
+			{
+				"Sub-Parts": "Controller",
+				"Emission Factor": 20.0
+			},
+			{
+				"Sub-Parts": "Throttle",
+				"Emission Factor": 12.0
+			},
+			{
+				"Sub-Parts": "Brakes",
+				"Emission Factor": 5.4
+			},
+			{
+				"Sub-Parts": "Wheels",
+				"Emission Factor": 4.8
+			},
+			{
+				"Sub-Parts": "Tires",
+				"Emission Factor": 26.5
+			},
+			{
+				"Sub-Parts": "Handlebars",
+				"Emission Factor": 9.8
+			},
+			{
+				"Sub-Parts": "Lights",
+				"Emission Factor": 11.6
+			},
+			{
+				"Sub-Parts": "Display",
+				"Emission Factor": 5.2
+			},
+			{
+				"Sub-Parts": "Suspension",
+				"Emission Factor": 8.8
+			},
+			{
+				"Sub-Parts": "Kickstand",
+				"Emission Factor": 1.1
+			},
+			{
+				"Sub-Parts": "Charging Port",
+				"Emission Factor": 12.2
+			},
+			{
+				"Sub-Parts": "Fenders",
+				"Emission Factor": 2.6
+			},
+			{
+				"Sub-Parts": "Accessories",
+				"Emission Factor": 15.0
+			}
+		]
+	}
+}

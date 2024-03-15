@@ -1,0 +1,50 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	width: 100%;
+}
+.dropDownSection {
+	display: flex;
+	width: 50%;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.partsListing {
+	display: flex;
+	margin-top: 24px;
+}
+
+.componentContainer {
+	display: flex;
+	flex-direction: column;
+	width: 800px;
+	border: 1px solid gray;
+	border-radius: 12px;
+	height: 1000px;
+}
+.componentContainer span {
+	display: flex;
+	height: 30px;
+	align-items: center;
+	justify-content: center;
+	flex: 1;
+	/* border-top: 1px solid red; */
+}
+
+.componentTableHeader {
+	display: flex;
+	/* border: 1px solid red; */
+	height: 50px;
+	/* justify-content: space-evenly; */
+}
+.componentTableRows {
+	display: flex;
+	height: 50px;
+
+	/* border: 1px solid red; */
+	/* justify-content: space-evenly; */
+}
